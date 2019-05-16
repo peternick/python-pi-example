@@ -5,5 +5,5 @@ def main(msg):
 
 main("Hello")
 
-    print("adding stuff conflicting with pi2")
+print("adding stuff conflicting with pi2")
 
